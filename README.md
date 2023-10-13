@@ -10,8 +10,16 @@
 ![Screenshot 2023-10-13 202210](https://github.com/KILLER-RAMADAN/fire_detection_using_cv2/assets/90656786/163241a8-ddd1-4022-a1b4-79b9c01323e9)
 
 
-# Cascade File Is Created By 'Ahmed Ramadan' 
+## Cascade File Is Created By 'Ahmed Ramadan' 
 
-# Using cascade-Trainer-GUI To Get Your Training File.....
+## Using 'cascade-Trainer-GUI' To Get Your Training File.....
 
 ⭐⭐
+
+# preview
+
+https://github.com/KILLER-RAMADAN/fire_detection_using_cv2/assets/90656786/d809affd-e377-476e-bb5f-dc303fe98027
+
+
+
+# Linkidin(https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/)
