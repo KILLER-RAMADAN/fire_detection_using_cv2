@@ -1,4 +1,4 @@
-# fire_detection_using_cv2
+# Fire-Detection
 
 # Main Frame ....
 
@@ -20,6 +20,4 @@
 
 https://github.com/KILLER-RAMADAN/fire_detection_using_cv2/assets/90656786/d809affd-e377-476e-bb5f-dc303fe98027
 
-
-
-# Linkidin(https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/)
+⭐⭐⭐
