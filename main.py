@@ -62,11 +62,11 @@ while cap.isOpened():
 	
 	background_image[180:180+480, 55:55+640] = img
 	gray = cv2.cvtColor(background_image,cv2.COLOR_BGR2GRAY) #convert image to grayscale
-	fire = fire_cascade.detectMultiScale(img, 1.2, 5) #test for fire detection
+	fire = fire_cascade.detectMultiScale(img, 1.5, 5) #test for fire detection
 	for (x,y,w,h) in fire:
 		roi_gray = gray[y:y+h, x:x+w]
 		roi_color = background_image[y:y+h, x:x+w]
-		background_image=cv2.rectangle(background_image,(x,y),(x+100,y+250),(0,0,255),2,2) #highlight the area of image with fire
+		background_image=cv2.rectangle(background_image,(x,y),(x+100,y+350),(0,0,255),2,2) #highlight the area of image with fire
 		cv2.putText(background_image, 'Fire is detected..!',(x, y),2,1, (0, 0, 255), 2)
 		print( 'Fire is detected..!' + str(count)) 
 		x=threading.Thread(target=run_warn).start()
